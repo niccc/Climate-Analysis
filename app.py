@@ -85,6 +85,7 @@ def temps2(start, end):
     session.close()
     temps_list = list(np.ravel(results))
     return jsonify(temps_list)
+    
 
 
     

@@ -4,21 +4,21 @@ The goal of this project was to extract, process, and analyze Hawaii climate dat
 
 ## Questions
 
-## Climate Analysis
+### Climate Analysis
 
-## Precipitation Analysis
+#### Precipitation Analysis
 1. How much total precipitation did Hawaii receive during the last twelve months on record?
 2. What are the summary statistics for that precipitation data?
 
-## Weather Station Analysis
+#### Weather Station Analysis
 1. What are the most active weather stations based on observation count?
 2. What are the maximum, minimum, and average temperatures for the most active weather station?
 
-## Temperature Analysis
+#### Temperature Analysis
 1. For the most active weather station, what are the most frequent temperature observations for the last twelve months on record?
 2. Are the monthly averages of the recorded June and December temperature observations statistically significant?
 
-## Historical Analysis
+#### Historical Analysis
 1. Given a set of start and end dates, what are the maximum, minimum, and average temperatures for the same date range one year prior?
 2. Given a set of start and end dates, what is the total precipitation for each weather station for the same date range one year prior?
 3. Given a set of start and end dates, what are the daily maximum, minimum, and average temperatures for the same date range for all years on record?

@@ -1,3 +1,3 @@
 Hawaii-Climate-Analysis
 
-The goal of this project was to extract, process, and analyze Hawaii climate data contained in a SQLite database.
+The goal of this project was to extract, process, and analyze Hawaii climate data contained in a SQLite database, as well as construct an API for the raw climate data. The purpose behind the project is to be able to use the API to plan around weather. SQLAlchemy was used within Python to store, inspect, and manipulate the data, while Pandas, Numpy, and Matplotlib was used within Python to visualize the data in a Jupyter Notebook.

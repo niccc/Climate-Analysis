@@ -22,3 +22,16 @@ The goal of this project was to extract, process, and analyze Hawaii climate dat
 1. Given a set of start and end dates, what are the maximum, minimum, and average temperatures for the same date range one year prior?
 2. Given a set of start and end dates, what is the total precipitation for each weather station for the same date range one year prior?
 3. Given a set of start and end dates, what are the daily maximum, minimum, and average temperatures for the same date range for all years on record?
+
+### Climate API
+
+#### Static Routes
+
+1. How much total precipitation did Hawaii receive during the last twelve months on record?
+2. What weather stations are collecting climate data?
+3. For the most active weather station, what is the recorded temperature for each day during the last twelve months on record?
+
+#### Dynamic Routes
+
+1. Given a start date, what are the maximum, minimum, and average temperatures for that date and all future dates on record?
+2. Given a set of start and end dates, what are the maximum, minimum, and average temperatures for those dates and all in-between?

@@ -29,4 +29,3 @@ The goal of this project was to extract, process, and analyze Hawaii climate dat
 	*Temperature informature
 	*Dynamic routes that take in a start or end date
 
-## Results
